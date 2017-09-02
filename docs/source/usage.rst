@@ -24,7 +24,7 @@ You can include other modules (or "recipes") to compile using `-m`::
     
     Recipes are instructions for compiling Python modules that require C extensions. 
     The list of recipes we currently have is at: 
-    https://github.com/kivy/python-for-android/tree/master/recipes
+    https://github.com/kivy/python-for-android/tree/master/pythonforandroid/recipes
 
 You can also specify a specific version for each package. Please note
 that the compilation might **break** if you don't use the default
